@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on ["P14-Faites-passer-une-librairie-jQuery-vers-React"](https://github.com/DevChalenger/P14-Faites-passer-une-librairie-jQuery-vers-React)
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **React, React Native and Redux**
 
-- 💬 Ask me about **react, redux, jest**
+- 💬 Ask me about **React, Redux, Jest, MUI**
 
 - 📫 How to reach me **ilyas.boukhechem@gmx.fr**
 
