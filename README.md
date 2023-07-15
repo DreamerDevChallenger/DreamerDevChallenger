@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ilyas</h1>
 <h3 align="center">A passionate and dreamy French frontend developer who works harder and harder every day</h3>
 
-- 🔭 I’m currently working on ["P14-Faites-passer-une-librairie-jQuery-vers-React"](https://github.com/DevChalenger/P14-Faites-passer-une-librairie-jQuery-vers-React)
+- 🔭 I’m currently working on ["Netflix App"](https://github.com/DreamerDevChallenger/netflix-app)
 
 - 🌱 I’m currently learning **React, React Native and Redux**
 
-- 💬 Ask me about **React, Redux, Jest, MUI**
+- 💬 Ask me about **React, Redux, Jest, TypeScript, MUI**
 
-- 📫 How to reach me **ilyas.boukhechem@gmx.fr**
+- 📫 How to reach me **ilyas.boukhechem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
