@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, React Native and Redux**
 
-- 💬 Ask me about **React, Redux, Jest, TypeScript, MUI**
+- 💬 Ask me about **React, Redux, Jest, TypeScript, MUI or Ruby**
 
 - 📫 How to reach me **ilyas.boukhechem@gmail.com**
 
