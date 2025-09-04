@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilyas</h1>
 <h3 align="center">A passionate and dreamy French frontend developer who works harder and harder every day</h3>
 
-- 🔭 I’m currently working on ["Netflix App"](https://github.com/DreamerDevChallenger/netflix-app)
-
-
 - 💬 Ask me about **React, Redux, Jest, TypeScript, MUI or Python**
 
 - 📫 How to reach me **ilyas.boukhechem@gmail.com**
