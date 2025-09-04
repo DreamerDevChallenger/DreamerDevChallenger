@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working on ["Netflix App"](https://github.com/DreamerDevChallenger/netflix-app)
 
-- 🌱 I’m currently learning **React, React Native and Redux**
 
-- 💬 Ask me about **React, Redux, Jest, TypeScript, MUI or Ruby**
+- 💬 Ask me about **React, Redux, Jest, TypeScript, MUI or Python**
 
 - 📫 How to reach me **ilyas.boukhechem@gmail.com**
 
